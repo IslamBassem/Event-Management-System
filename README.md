@@ -58,5 +58,3 @@ An Object-Oriented Java application designed to manage events through a multi-ro
 
 Islam Bassem
 Faculty of Computer Engineering, Ain Shams University
-
-Let me know if you want to add a screenshot section, demo video, or deployment instructions!
